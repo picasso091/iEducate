@@ -224,14 +224,14 @@ html {
   text-align: center;
 }
 .form input {
-  margin: 10px 50px 10px 30px;
+  margin: auto;
   width: 30%;
   height: 20px;
   font-size: medium;
   text-align: center;
 }
 .form div {
-  /* text-align: justify; */
+margin:17px;
   font-size: larger;
   font-weight: bold;
   color: #a77f42;
@@ -294,7 +294,7 @@ footer {
     right:0px;
     background: rgba(0, 0.5, 0.6, 0.7);
     /* z-index: 2; */
-    display: block;
+    display: none;
     height: 100vh;
   }
   .navRight .List{
